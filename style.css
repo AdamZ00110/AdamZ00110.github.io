@@ -1,0 +1,9 @@
+body{
+    padding: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(34, 34, 34);
+}
+section{
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+}
